@@ -14,9 +14,14 @@
 //   See the License for the specific language governing permissions and
 //   limitations under the License.
 //
-//
+// Оригинал:
 // URL:    https://github.com/vbondarevsky/Connector
 // e-mail: vbondarevsky@gmail.com
+// Версия: 2.6.0
+//
+// ФОРК:
+// URL: https://github.com/YaroslavHolovatiy/Connector
+// e-mail: yaroslav.holovatiy@gmail.com
 // Версия: 2.6.0
 //
 // Требования: платформа 1С версии 8.3.10 и выше
